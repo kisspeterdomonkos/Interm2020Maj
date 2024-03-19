@@ -1,0 +1,14 @@
+E:\C# Projects\sudokuCLI\bin\Debug\net8.0\sudokuCLI.exe
+E:\C# Projects\sudokuCLI\bin\Debug\net8.0\sudokuCLI.deps.json
+E:\C# Projects\sudokuCLI\bin\Debug\net8.0\sudokuCLI.runtimeconfig.json
+E:\C# Projects\sudokuCLI\bin\Debug\net8.0\sudokuCLI.dll
+E:\C# Projects\sudokuCLI\bin\Debug\net8.0\sudokuCLI.pdb
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.AssemblyInfoInputs.cache
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.AssemblyInfo.cs
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.csproj.CoreCompileInputs.cache
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.dll
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\refint\sudokuCLI.dll
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.pdb
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\sudokuCLI.genruntimeconfig.cache
+E:\C# Projects\sudokuCLI\obj\Debug\net8.0\ref\sudokuCLI.dll

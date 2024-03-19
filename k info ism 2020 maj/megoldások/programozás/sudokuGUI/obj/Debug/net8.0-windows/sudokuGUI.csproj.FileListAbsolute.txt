@@ -1,0 +1,16 @@
+E:\C# Projects\sudokuGUI\bin\Debug\net8.0-windows\sudokuGUI.exe
+E:\C# Projects\sudokuGUI\bin\Debug\net8.0-windows\sudokuGUI.deps.json
+E:\C# Projects\sudokuGUI\bin\Debug\net8.0-windows\sudokuGUI.runtimeconfig.json
+E:\C# Projects\sudokuGUI\bin\Debug\net8.0-windows\sudokuGUI.dll
+E:\C# Projects\sudokuGUI\bin\Debug\net8.0-windows\sudokuGUI.pdb
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.sudokuGUI.resources
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.csproj.GenerateResource.cache
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.AssemblyInfoInputs.cache
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.AssemblyInfo.cs
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.csproj.CoreCompileInputs.cache
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.dll
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\refint\sudokuGUI.dll
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.pdb
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\sudokuGUI.genruntimeconfig.cache
+E:\C# Projects\sudokuGUI\obj\Debug\net8.0-windows\ref\sudokuGUI.dll
